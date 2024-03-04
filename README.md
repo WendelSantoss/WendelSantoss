@@ -7,10 +7,10 @@
 - ⚡ Fato curioso: Por ter um hyper foco, tenho um aprendizado extemamente rápido.
 <div display: inline_block>  
 <a href="https://github.com/WendelSantoss/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WendelSantoss&show_icons=true" />
+  <img width=430 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WendelSantoss&show_icons=true" />
 </a>
 <a href="https://github.com/WendelSantoss/convoychat">
-  <img height=200 align="center" 
+  <img width=360 height=200 align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=WendelSantoss&layout=compact&langs_count=8&card_width=32" />
 </a>
 </div>
