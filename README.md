@@ -2,9 +2,9 @@
 
 - 🔭 Atualmente estou construindo meu portifólio com projetos em JavaScript, React, Next.js e TypeScript.
 - 🌱 Graduando Analise e Desenvolvimento de Sistemas na UNIPÊ - Centro Universitário da Paraíba.
-- 💬 Estudando tecnologias Taillwind, Styled-Components e me aprofudando ainda mais no mundo React.
+- 💬 Estudando tecnologias como Taillwind, Styled-Components e me aprofudando ainda mais no mundo React.
 - 😄 Pronome: ele/dele
-- ⚡ Fato curioso: Por ter um hyper foco, tenho um aprendizado extemamente rápido.
+- ⚡ Fato curioso: Por ter um hyper foco, tenho um aprendizado extremamente rápido.
 <div display: inline_block>  
 <a href="https://github.com/WendelSantoss/github-readme-stats">
   <img width=430 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WendelSantoss&show_icons=true" />
@@ -14,7 +14,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs?username=WendelSantoss&layout=compact&langs_count=8&card_width=32" />
 </a>
 </div>
-
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
