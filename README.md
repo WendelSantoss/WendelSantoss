@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou construindo meu portifólio com projetos em JavaScript, React, Next.js e TypeScript.
 - 🌱 Graduando Analise e Desenvolvimento de Sistemas na UNIPÊ - Centro Universitário da Paraíba.
-- 💬 Estudando tecnologias Taillwind, Styled-Componentes e me apro
+- 💬 Estudando tecnologias Taillwind, Styled-Componentes e me aprofudando ainda mais no mundo React.
 - 😄 Pronome: ele/dele
 - ⚡ Fato curioso: Por ter um hyper foco, tenho um aprendizado extemamente rápido.
 
