@@ -1,8 +1,8 @@
 ### Olá pessoal eu sou Wendel Santos. 👋
 
-- 🔭 Atualmente estou construindo meu portifólio com projetos em JavaScript, React, Next.js e TypeScript.
+- 🔭 Atualmente estou construindo meu portifólio com projetos em JavaScript, React, React Native, Next.js e TypeScript.
 - 🌱 Graduando Analise e Desenvolvimento de Sistemas na UNIPÊ - Centro Universitário da Paraíba.
-- 💬 Estudando tecnologias como Taillwind, Styled-Components e me aprofudando ainda mais no mundo React.
+- 💬 Estudando tecnologias como Taillwind, Styled-Components e me aprofudando ainda mais no mundo React Native e desenvolvimento Mobile.
 - 😄 Pronome: ele/dele
 - ⚡ Fato curioso: Por ter um hyper foco, tenho um aprendizado extremamente rápido.
 <div display: inline_block>  
